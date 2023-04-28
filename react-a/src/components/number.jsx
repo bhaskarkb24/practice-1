@@ -47,6 +47,7 @@ export default function Num() {
       <br />
       <br />
       <button onClick={showDetails()}> Submit</button>
+
       {/* <p>Name:{name}</p>
       <p>Email:{email}</p>
       <p>Contact:{contact}</p> */}
